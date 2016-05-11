@@ -19,7 +19,7 @@
 
 #### 下面以一个超市的收银软件为例：
 #### 运行图如下：
- ![1](image//1.png)
-  ![1](image//2.png)
-   ![1](image//3.png)
+ ![1](images//1.png)
+ ![1](images//2.png)
+ ![1](images//3.png)
 
